@@ -6,3 +6,6 @@ a loop every 1 hour to remind me to take a break by showing a popup message then
 
 Program 2:
 Rename a group of of files by removing numbers from filenames
+
+#Program 3
+draw a circle made from 36 squares output shown in photo
