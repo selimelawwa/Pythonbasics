@@ -9,3 +9,9 @@ Rename a group of of files by removing numbers from filenames
 
 #Program 3
 draw a circle made from 36 squares output shown in photo
+
+#Program 4
+Drawing name initials with Turtle
+
+#Program 5 
+check curse words in a text files
